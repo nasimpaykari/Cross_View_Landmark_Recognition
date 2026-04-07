@@ -37,7 +37,7 @@ Terms of Use:
 - When publishing results using this dataset, you must cite both the original Google Landmarks v2 paper and this work
 
 Required Citations:
-
+```bibtex
 @article{weyand2020google,
   title={Google Landmarks Dataset v2},
   author={Weyand, Tobias and others},
@@ -49,3 +49,4 @@ Required Citations:
   title={Cross-View Landmark Recognition for Cooperative Visual Navigation},
   author={Paykari, Nasim and Vural, Ilayda and Desta, Natnael and Zain, Ademi and Clark, Taylor and Rahouti, Mohamed and Lyons, Damian},
 }
+```
