@@ -6,7 +6,7 @@ This repository contains the official dataset, evaluation code, and benchmark re
 > **Cross-View Landmark Recognition for Cooperative Visual Navigation**  
 > *Nasim Paykari, Ilayda Vural, Natnael Desta, Ademi Zain, Taylor Clark, Mohamed Rahouti, Damian Lyons*  
 > Department of Computer and Information Science, Fordham University, NY, USA  
-> *Presented at SPIE 2026*
+> ...
 
 ---
 
