@@ -205,11 +205,6 @@ If you use this dataset or code in your research, please cite:
 Or open a [GitHub Issue](https://github.com/nasimpaykari/Cross_View_Landmark_Recognition/issues).
 
 ---
-
-## License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 ## Acknowledgments
