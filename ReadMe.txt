@@ -37,7 +37,7 @@ Terms of Use:
 - When publishing results using this dataset, you must cite both the original Google Landmarks v2 paper and this work
 
 Required Citations:
-```bibtex
+
 @article{weyand2020google,
   title={Google Landmarks Dataset v2},
   author={Weyand, Tobias and others},
