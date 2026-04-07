@@ -69,21 +69,12 @@ Cross_View_Landmark_Recognition/
 │       └── ... (same structure for all methods)
 │
 ├── results/                  # Paper results (tables, figures)
-│   ├── clr_performance.csv
-│   ├── discrimination_metrics.csv
-│   ├── efficiency.csv
-│   ├── recall_all_methods.pdf
-│   └── rank_cdf_all_methods.pdf
 │
-├── scripts/
-│   ├── interactive_clr_analyzer.py   # Main interactive tool
-│   ├── clr_analysis.py               # CLR dataset analysis
-│   ├── corridor_analysis.py          # Corridor dataset analysis
-│   └── generate_figures.py           # Reproduce paper figures
-│
-├── README.md
-├── LICENSE
-└── requirements.txt
+├── interactive_clr_analyzer.py   # Main interactive tool
+├── clr_analysis.py               # CLR dataset analysis
+├── corridor_analysis.py          # Corridor dataset analysis
+├── generate_figures.py           # Reproduce paper figures
+└── README.md
 ```
 
 ---
