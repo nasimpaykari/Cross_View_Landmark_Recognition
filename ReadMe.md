@@ -99,7 +99,7 @@ The ground truth is stored as a numpy array where each entry is:
 
 For each location, we **randomly selected one image as the query** and designated **all remaining images as references**. This split is reproducible and recorded in the ground truth file.
 
-**Note:** A self-match (image serving as both query and reference) is intentionally included to validate the experimental pipeline, inflating precision by approximately 0.45% — a negligible effect.
+**Note:** A self-match (image serving as both query and reference) is intentionally included to validate the experimental pipeline, inflating precision by approximately 0.45%, a negligible effect.
 
 ---
 
@@ -116,7 +116,7 @@ For each location, we **randomly selected one image as the query** and designate
 | Average references per query | 1.49 |
 
 ---
-For complete query-reference mappings, see [DATASET_INFO.md](DatasetIndo.md)
+For complete query-reference mappings, see [DatasetInfo.md](DatasetInfo.md)
 
 ## Quick Start
 
