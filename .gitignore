@@ -1,0 +1,43 @@
+# Create .gitignore
+cat > .gitignore << 'EOF'
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large image files (will be added via Git LFS or separate)
+*.jpg
+*.jpeg
+*.png
+*.tiff
+*.bmp
+*.webp
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Experiment branch files (keep separate)
+/paper-experiment-v1/
+
+# VPR-Bench submodule (will be added later)
+/vpr-bench-submodule/
+
+# Metadata backups
+*.backup
+EOF
