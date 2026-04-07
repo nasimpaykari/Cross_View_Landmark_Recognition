@@ -1,4 +1,4 @@
-```markdown
+
 # Cross-View Landmark Recognition (CLR) for Cooperative Visual Navigation
 
 This repository contains the official dataset, evaluation code, and benchmark results for the paper:
@@ -232,6 +232,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## Star This Repository
 
 If you find this work useful, please consider starring this repository and citing our paper.
-```
+
 
 ---
