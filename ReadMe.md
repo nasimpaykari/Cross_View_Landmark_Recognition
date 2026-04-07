@@ -38,6 +38,11 @@ Terms of Use:
 
 Required Citations:
 ```bibtex
+@inproceedings{...,
+  title={Cross-View Landmark Recognition for Cooperative Visual Navigation},
+  author={Paykari, Nasim and Vural, Ilayda and Desta, Natnael and Zain, Ademi and Clark, Taylor and Rahouti, Mohamed and Lyons, Damian},
+}
+
 @article{weyand2020google,
   title={Google Landmarks Dataset v2},
   author={Weyand, Tobias and others},
@@ -45,8 +50,4 @@ Required Citations:
   year={2020}
 }
 
-@inproceedings{...,
-  title={Cross-View Landmark Recognition for Cooperative Visual Navigation},
-  author={Paykari, Nasim and Vural, Ilayda and Desta, Natnael and Zain, Ademi and Clark, Taylor and Rahouti, Mohamed and Lyons, Damian},
-}
 ```
