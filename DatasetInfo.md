@@ -13,7 +13,7 @@ The ground truth is stored in `data/CLR_dataset/ground_truth_new.npy` as a numpy
 
 For each location, we **randomly selected one image as the query** and designated **all remaining images as references**. This split is reproducible and recorded in the ground truth file.
 
-**Note:** A self-match (image serving as both query and reference) is intentionally included to validate the experimental pipeline, inflating precision by approximately 0.45% — a negligible effect.
+**Note:** A self-match (image serving as both query and reference) is intentionally included to validate the experimental pipeline, inflating precision by approximately 0.45%; a negligible effect.
 
 ---
 
@@ -176,21 +176,4 @@ For the queries analyzed in detail in the paper:
 │ Average references per query        │ 1.49     │
 │ Locations with VPR+CLR pairs        │ 17       │
 └─────────────────────────────────────┴──────────┘
-```
-
----
-
-## How to Load Ground Truth in Python
-
-```python
-import numpy as np
-
-# Load ground truth
-gt = np.load('data/CLR_dataset/ground_truth_new.npy', allow_pickle=True)
-
-# Access a specific query
-for item in gt:
-    query_idx = int(item[0])
-    ref_indices = [int(x) for x in item[1]]
-    print(f"Query {query_idx} -> References {ref_indices}")
 ```
