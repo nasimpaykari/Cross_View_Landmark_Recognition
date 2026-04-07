@@ -14,7 +14,7 @@ This repository contains the official dataset, evaluation code, and benchmark re
 
 **Cross-View Landmark Recognition (CLR)** addresses a fundamental challenge in multi-robot navigation: enabling robots to recognize the same landmark when viewed from dramatically different perspectives, distances, and viewing angles.
 
-Unlike traditional **Visual Place Recognition (VPR)** which asks *"Are we in the same place?"* (assuming spatial proximity), CLR asks *"Can you see what I see?"* — focusing on identifying shared perceptual anchors rather than co-located positions.
+Unlike traditional **Visual Place Recognition (VPR)** which asks *"Are we in the same place?"* (assuming spatial proximity), CLR asks *"Can you see what I see?"*  focusing on identifying shared perceptual anchors rather than co-located positions.
 
 ### Key Applications
 - **Search and rescue missions** in GNSS-denied environments
