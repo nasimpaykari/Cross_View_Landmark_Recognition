@@ -116,6 +116,7 @@ For each location, we **randomly selected one image as the query** and designate
 | Average references per query | 1.49 |
 
 ---
+For complete query-reference mappings, see [DATASET_INFO.md](DatasetIndo.md)
 
 ## Quick Start
 
