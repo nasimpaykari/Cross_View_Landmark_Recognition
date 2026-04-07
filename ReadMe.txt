@@ -1,36 +1,29 @@
-# Cross View Landmark Recognition 
+Cross View Landmark Recognition 
 
-## Overview
 The **Cross-View Landmark Recognition (CLR) Foundation Dataset** is a curated collection of landmark images designed for evaluating cross-view recognition under wide-baseline conditions. Derived from Google Landmarks v2, this dataset prioritizes landmarks that remain identifiable across extreme viewpoint changes.
 
-## Dataset Statistics
-- **Total images**: 557
-- **Unique landmarks**: 229
-- **Average images per landmark**: 2.43
-- **Min images per landmark**: 1
-- **Max images per landmark**: 10
-- **Geographic coverage**: 9 countries across Asia, North America, Oceania
-
-| Metric | Value |
-|--------|-------|
-| Total images | 557 |
-| Unique landmarks | 229 |
-| Avg images/landmark | 2.43 |
-| Min images/landmark | 1 |
-| Max images/landmark | 10 |
-| Countries | 9 |
-| Continents | Asia, North America, Oceania, Other |
+| Metric              | Value         |
+|---------------------|---------------|
+| Total images        | 557           |
+| Unique landmarks    | 229           |
+| Avg images/landmark | 2.43          |
+| Min images/landmark | 1             |
+| Max images/landmark | 10            |
+| Countries           | 9             |
+| Continents          | North America, 
+                        Oceania, Asia, 
+                                Other |
 
 ### Image Format Distribution
 - `.jpg`: 556 images
 - `.jpeg`: 1 image
 
 ### Image Size Statistics
-| Dimension | Min | Max | Average |
-|-----------|-----|-----|---------|
-| Width (pixels) | 639 | 640 | 639.99 |
-| Height (pixels) | 172 | 1205 | 572.79 |
-| File size (MB) | 0.03 | 0.27 | 0.10 |
+| Dimension       | Min | Max | Average |
+|-----------------|-----|-----|---------|
+| Width (pixels)  | 639 | 640 | 639.99  |
+| Height (pixels) | 172 | 1205| 572.79  |
+| File size (MB)  | 0.03| 0.27| 0.10    |
 
 ### Geographic Coverage
 - **Asia**: Azerbaijan, Iran, Israel, Oman, Thailand, Turkey, UAE
