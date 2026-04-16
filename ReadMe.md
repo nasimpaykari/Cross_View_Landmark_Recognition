@@ -43,11 +43,13 @@ Required Citations:
   author={Paykari, Nasim and Vural, Ilayda and Desta, Natnael and Zain, Ademi and Clark, Taylor and Rahouti, Mohamed and Lyons, Damian},
 }
 
-@article{weyand2020google,
-  title={Google Landmarks Dataset v2},
-  author={Weyand, Tobias and others},
-  journal={arXiv preprint arXiv:2004.01804},
-  year={2020}
+@unpublished{Paykari2026Accepted,
+  author       = {Nasim Paykari and Natnael Desta and Mohamed Rahouti},
+  title        = {Cross-View Landmark Recognition for Cooperative Visual Navigation},
+  year         = {2026},
+  month        = {April},
+  note         = {Accepted paper presented at SPIE Defense + Security, National Harbor, MD, United States. Paper 14047-8},
+  url          = {https://spie.org/defense-security/presentation/Cross-view-landmarks-recognition-for-cooperative-visual-navigation/14047-8}
 }
 
 ```
