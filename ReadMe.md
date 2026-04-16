@@ -188,10 +188,13 @@ data[3] = similarity_matrix # Full similarity matrix (queries × references)
 If you use this dataset or code in your research, please cite:
 
 ```bibtex
-@inproceedings{...,
-  title={Cross-View Landmark Recognition for Cooperative Visual Navigation},
-  author={Paykari, Nasim and Vural, Ilayda and Desta, Natnael and Zain, Ademi and Clark, Taylor and Rahouti, Mohamed and Lyons, Damian},
-  ...
+@unpublished{Paykari2026Accepted,
+  author       = {Nasim Paykari and Natnael Desta and Mohamed Rahouti},
+  title        = {Paykari, Nasim and Vural, Ilayda and Desta, Natnael and Zain, Ademi and Clark, Taylor and Rahouti, Mohamed and Lyons, Damian},
+  year         = {2026},
+  month        = {April},
+  note         = {Accepted paper presented at SPIE Defense + Security, National Harbor, MD, United States. Paper 14047-8},
+  url          = {https://spie.org/defense-security/presentation/Cross-view-landmarks-recognition-for-cooperative-visual-navigation/14047-8}
 }
 ```
 
